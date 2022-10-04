@@ -1,0 +1,2 @@
+This is another using fs.writeFileSync module 
+ Text File Succeed 1659194249722}.
